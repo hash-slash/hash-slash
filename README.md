@@ -2,6 +2,8 @@
 <h1 align="center">Hello there!  I am Ashesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <!--
 **hash-slash/hash-slash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<img align = "center" width="1000" height="750"  src="github.png" alt="Coding Picture" style="margin-right:5%;"/>
+
 <h2 style="margin-left:10%">Interested in: </h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f83e0&size=25&center=true&lines=Web+Development;Competitive+Programming;Machine+Learning;Artificial+Intelligence;UI/UX+Design)](https://git.io/typing-svg)
