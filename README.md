@@ -11,16 +11,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on :
-   -> making an animated webpage from scratch
-   -> making a clone of youtube
-- 🌱 I’m currently learning :
-   ->HTML
-   ->CSS
-   ->Python
-   ->MATLAB
-   ->Javascript
-   ->Django
+
+<h6 style="margin-left:10%">- 🔭 I’m currently working on : </h6>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Harlow+Solid+Italic&color=%23F73B0B&size=15&center=true&lines=A+clone+of+youtube;An+animated+webpage)](https://git.io/typing-svg)
+
+
+<h5 style="margin-left:10%"> 🌱 I’m currently learning :  </h5>
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&color=%23F735C3&size=17&center=true&width=300&lines=Html;Css;Javacript;Django;MATLAB)](https://git.io/typing-svg)
+   
 - 👯 I’m looking to collaborate on :
    ->Anything that brings with it some learning
 - 🤔 I’m looking for help with ...
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 [![Ashesh's github stats](https://github-readme-stats.vercel.app/api?username=hash-slash&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash-slash&layout=compact)](https://github.com/hash-slash)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash-slash&layout=compact&theme=radical)](https://github.com/hash-slash)
 
 
 
