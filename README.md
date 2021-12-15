@@ -6,7 +6,7 @@
 
 <h2 style="margin-left:10%">Interested in: </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f83e0&size=25&center=true&lines=Web+Development;Competitive+Programming;Machine+Learning;Artificial+Intelligence;UI/UX+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=b0fc38&size=25&center=true&lines=Web+Development;Competitive+Programming;Machine+Learning;Artificial+Intelligence;UI/UX+Design)](https://git.io/typing-svg)
 
 
 Here are some ideas to get you started:
@@ -51,8 +51,10 @@ Here are some ideas to get you started:
  
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=hash-slash&theme=onedark&column=8" alt="zumrudu-anka" />
+      <img align= "center" width=100% src="https://github-profile-trophy.vercel.app/?username=hash-slash&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
 </div>
+ <img align="center" src="https://github.com/hash-slash/hash-slash/blob/main/github2.gif" width="100px"/>
+
 
 made with ❤ by Ashesh
