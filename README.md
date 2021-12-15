@@ -41,8 +41,18 @@ Here are some ideas to get you started:
    
    ## 📈 GitHub Stats 
 
-[![Ashesh's github stats](https://github-readme-stats.vercel.app/api?username=hash-slash)](https://github.com/hash-slash)
 
+[![Ashesh's github stats](https://github-readme-stats.vercel.app/api?username=hash-slash&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash-slash&layout=compact)](https://github.com/hash-slash)
+
+
+
+### Trophy:
+ 
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=hash-slash&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
 
 made with ❤ by Ashesh
